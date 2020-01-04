@@ -1,0 +1,1 @@
+tpytime_kya = input("time?")
